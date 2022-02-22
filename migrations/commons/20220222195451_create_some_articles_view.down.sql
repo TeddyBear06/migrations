@@ -1,0 +1,1 @@
+DROP VIEW IF EXISTS demo.some_articles;
